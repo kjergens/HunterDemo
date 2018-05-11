@@ -1,0 +1,3 @@
+/Users/kjergens/CLionProjects/HunterDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kjergens/CLionProjects/HunterDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kjergens/CLionProjects/HunterDemo/cmake-build-debug/CMakeFiles/HunterDemo.dir
