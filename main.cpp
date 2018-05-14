@@ -9,7 +9,7 @@ void flip(int b) {
     return;
 }
 
-void flip(int *bPtr) {
+void flip(int* bPtr) {
     *bPtr *= -1;
 
     return;
